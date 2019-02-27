@@ -6,3 +6,4 @@ $obj->alamat ='Putrajaya';
 
 // convert obj kepada str JSON
 echo json_encode($obj);
+/// test
